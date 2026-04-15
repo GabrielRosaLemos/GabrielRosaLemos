@@ -15,9 +15,7 @@ I'm constantly improving my skills through practical projects and real-world sol
 ## 🌐 Where to find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-GabrielRosaLemos-181717?style=for-the-badge&logo=github)](https://github.com/GabrielRosaLemos)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Rosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rosa-75050832b/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-mano__rosaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mano_rosaa/)
 ---
 
