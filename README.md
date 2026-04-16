@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+%7C+Automation+%7C+Game+Systems;Building+real+projects;Always+learning)
 
 🚀 **Developer focused on practical projects**  
-🇧🇷 Brazil  
+📍Brazil | Open to opportunities
 
 I build real-world projects involving **Python, automation and game systems**.
 
